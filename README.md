@@ -97,7 +97,7 @@ npm run dev
 
 ---    
 
-## 예시
+## 🖥️ 메인 화면
 ![메인화면](./public/main-screenshot.png)
 
 
